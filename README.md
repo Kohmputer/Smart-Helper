@@ -24,4 +24,8 @@ diagnosis, providing a personalized, interactive,
 - Chatbot: I’m sorry to hear you’re not doing well today. It’s not always easy to discuss, but is there any way I can help?
 - HM: Not sure to be honest… 
 - Chatbot: No worries! Take your time. Let me know if you need anything. I can assist you with the following. 
- (Provide click options of: Connect me to. I’m anxious. I’m depressed. I’m sad.)
+ (Provide click options of: Connect me to the diabetes community. I’m anxious. I’m sad. Leave me alone)
+
+# Room for Improvement
+- **Resource Integration**: Utilize EnableMe's existing resources by linking to articles, videos, and community forums relevant to the user's questions.
+- **Community Connection**: Offer users the option to connect with peer support groups or one-on-one chats with experts for more personalized advice.
