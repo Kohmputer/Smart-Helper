@@ -55,7 +55,7 @@ At *Stage 3*
 
 # Prototype
 <img width="1105" alt="Screenshot 2024-03-24 at 14 31 22" src="https://github.com/Kohmputer/Smart-Helper/assets/137958418/038e193f-b210-461f-bb37-026a13f92763">
-
+Make sure you have enough credits in your OpenAI account to use the API. If you don't have enough credits, you can buy them from the OpenAI website.
 
 # Room for Improvement + Next Steps
 - **Integration with EnableMe’s Ecosystem**: Utilize EnableMe's existing resources by linking to articles, videos, and community forums relevant to the user's questions.
