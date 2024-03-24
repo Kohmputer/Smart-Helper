@@ -8,6 +8,10 @@ Smart Helper offers its users relevant information at the right time in the pref
 aims to assist them in not just coping with their new situation but thriving and reaching their
 full potential, by also connecting them with wider communities and opportunties.
 
+# <img width="803" alt="Screenshot 2024-03-24 at 17 12 23" src="https://github.com/Kohmputer/Smart-Helper/assets/137958418/1d2f00a4-80bd-4add-ada4-a95bf9b2213c">
+
+
+
 # The Objective of Smart Helper Chatbot
 Develop an initial prototype for Smart Helper focused on diabetes management. This
 prototype should cater to individuals newly diagnosed with diabetes, offering them precisely
