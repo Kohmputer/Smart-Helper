@@ -26,6 +26,12 @@ At *Stage 2*
 At *Stage 3*
 - Provide reminders for medication, appointments, and glucose monitoring.
 
+# User Flow & Architecture
+![Untitled Diagram drawio](https://github.com/Kohmputer/Smart-Helper/assets/137958418/19b12cb0-6b82-4180-b6df-5cead1923ea5)
+
+
+
+
 # Approach
 1. Design the Chatbot
    - Ensure the chatbot UI is user-friendly and accessible to people with various disabilities.
@@ -39,6 +45,9 @@ At *Stage 3*
  - HM: Not sure to be honest… 
  - Chatbot: No worries! Take your time. Let me know if you need anything. I can assist you with the following. 
  (Provide click options of: Connect me to the diabetes community. I’m anxious. I’m sad. Leave me alone)
+
+
+
 
 # Prototype
 <img width="1105" alt="Screenshot 2024-03-24 at 14 31 22" src="https://github.com/Kohmputer/Smart-Helper/assets/137958418/038e193f-b210-461f-bb37-026a13f92763">
